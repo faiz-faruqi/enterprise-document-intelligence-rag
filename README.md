@@ -34,7 +34,10 @@ This is a **reference architecture** that demonstrates how to build an enterpris
 
 The platform uses a layered architecture that separates concerns and enables independent scaling, testing, and vendor replacement:
 
-![Platform Architecture](architecture/diagrams/platform-architecture.svg)
+<img width="630" height="742" alt="image" src="https://github.com/user-attachments/assets/a67fb702-f2db-496a-b91d-c14deb5172fc" />
+
+
+
 
 ### Core Layers
 
@@ -208,10 +211,8 @@ Total Cost of Ownership (TCO) analysis for:
 
 ## Related Resources
 
-📝 **Blog Post**: [From Document Chaos to Enterprise Intelligence: Building a Production-Grade RAG Platform](#)  
-📊 **Presentation**: [Architecting Reusable GenAI Platforms (SlideShare)](#)  
-🎥 **Talk**: [Enterprise RAG Patterns (Conference Recording)](#)  
-💼 **Portfolio**: [More Architecture Case Studies](#)
+📝 **Blog Post**: [ https://faizfaruqi.com/designing-an-enterprise-ready-ai-document-intelligence-architecture/]
+💼 **Portfolio**: [https://faizfaruqi.com/case-study/]
 
 ---
 
@@ -219,9 +220,10 @@ Total Cost of Ownership (TCO) analysis for:
 
 This platform was designed to demonstrate enterprise-grade GenAI architecture patterns for document intelligence and knowledge retrieval. It reflects the design principles and trade-offs that matter in real enterprise environments: modularity, reusability, vendor neutrality, and operational integration.
 
-**Author**: [Your Name]  
+**Author**: Faiz Faruqi  
 **Role**: Enterprise AI Architect  
-**Connect**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+**Connect**: [LinkedIn](https://linkedin.com/in/faizfaruqi) | 
+[Portfolio] (https://faizfaruqi.com/designing-an-enterprise-ready-ai-document-intelligence-architecture/)
 
 ---
 
