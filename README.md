@@ -211,7 +211,8 @@ Total Cost of Ownership (TCO) analysis for:
 
 ## Related Resources
 
-📝 **Blog Post**: [ https://faizfaruqi.com/designing-an-enterprise-ready-ai-document-intelligence-architecture/] </n>
+📝 **Blog Post**: [ https://faizfaruqi.com/designing-an-enterprise-ready-ai-document-intelligence-architecture/] 
+
 💼 **Portfolio**: [https://faizfaruqi.com/case-study/]
 
 ---
