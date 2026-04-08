@@ -222,8 +222,7 @@ This platform was designed to demonstrate enterprise-grade GenAI architecture pa
 
 **Author**: Faiz Faruqi  
 **Role**: Enterprise AI Architect  
-**Connect**: [LinkedIn](https://linkedin.com/in/faizfaruqi) | 
-[Portfolio] (https://faizfaruqi.com/designing-an-enterprise-ready-ai-document-intelligence-architecture/)
+**Connect**: [LinkedIn](https://linkedin.com/in/faizfaruqi) | [Portfolio](https://faizfaruqi.com/designing-an-enterprise-ready-ai-document-intelligence-architecture/)
 
 ---
 
